@@ -1,13 +1,18 @@
 # About-me
 
 ```
-about-me = {
-  "name": "andrew (andy) nuisud
-  "year": "incoming junior"
-  "school": "boston university"
-  "company": "cvs health - aetna"
-  "role": "innotech software engineer"
-  "location": "boston, ma"
-  "fav-language": "python, typescript"
+about_me = {
+    "name": {
+        "first": "andy",
+        "last": "nuisud",
+        "pronouns": "he/him/his",
+    },
+    "experience": {
+        "curr": "innotech swe intern @ cvs health",
+    },
+    "socials": {
+        "linkedin": "https://www.linkedin.com/in/andrewnuisud/",
+        "email": "andrewnuisud06@gmail.com",
+    }
 }
 ```
